@@ -36,6 +36,10 @@ This project aims to collect metadata from a YouTube creator's videos and save i
     ```python
     creator = '@#YOUTUBEUSERNAME'
     ```
-    You can customize the information to be retrieved by modifying the `itemprop_list` variable.
+    You can customize the information to be retrieved by modifying the
+   ```python
+    `itemprop_list`= [].
+    ```
+    
 
-4. Run all the cells in the notebook to collect video metadata and save it into an Excel file.
+5. Run all the cells in the notebook to collect video metadata and save it into an Excel file.
