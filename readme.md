@@ -38,7 +38,7 @@ This project aims to collect metadata from a YouTube creator's videos and save i
     ```
     You can customize the information to be retrieved by modifying the
    ```python
-    `itemprop_list`= [].
+    itemprop_list= [].
     ```
     
 
